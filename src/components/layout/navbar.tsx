@@ -82,8 +82,8 @@ export function Navbar() {
         </ul>
 
         <div className="hidden lg:block">
-          <Link href="/#subscribe">
-            <Button size="sm">Subscribe Now</Button>
+          <Link href="/become-a-partner">
+            <Button size="sm">Become a Partner</Button>
           </Link>
         </div>
 
@@ -122,8 +122,8 @@ export function Navbar() {
                 </li>
               ))}
               <li className="pt-2">
-                <Link href="/#subscribe" className="block">
-                  <Button className="w-full">Subscribe Now</Button>
+                <Link href="/become-a-partner" className="block">
+                  <Button className="w-full">Become a Partner</Button>
                 </Link>
               </li>
             </ul>
