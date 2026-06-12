@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #f0f7f0;
+  --color-brand-100: #dceadc;
+  --color-brand-200: #b8d5b8;
+  --color-brand-300: #8fbb8f;
+  --color-brand-400: #6ba06b;
+  --color-brand-500: #4b7c4b;
+  --color-brand-600: #3d653d;
+  --color-brand-700: #325032;
+  --color-brand-800: #2a422a;
+  --color-brand-900: #233723;
+  --color-brand-950: #121d12;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-roboto-slab), Georgia, serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-stone-50 text-stone-900 antialiased;
+  }
+
+  ::selection {
+    @apply bg-brand-200 text-brand-950;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .glass {
+    @apply border border-white/20 bg-white/70 backdrop-blur-xl;
+  }
+
+  .glass-dark {
+    @apply border border-white/10 bg-stone-900/70 backdrop-blur-xl;
+  }
+
+  .gradient-mesh {
+    background:
+      radial-gradient(at 20% 30%, rgba(75, 124, 75, 0.15) 0px, transparent 50%),
+      radial-gradient(at 80% 20%, rgba(139, 187, 143, 0.12) 0px, transparent 50%),
+      radial-gradient(at 60% 80%, rgba(75, 124, 75, 0.08) 0px, transparent 50%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

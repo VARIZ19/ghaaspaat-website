@@ -1,0 +1,824 @@
+GHAASPAAT.COM — WEBSITE CONTENT ARCHIVE
+Generated for website recreation purposes
+Source: https://ghaaspaat.com
+
+======================================================================
+SITE OVERVIEW
+======================================================================
+
+Business Name: Ghaas Paat / Ghaaspaat Farms Pvt. Ltd.
+Tagline: Nutrient-Rich Microgreens from Bihar
+Industry: Agritech / Microgreens farming
+Location: Bihar, India
+
+Description:
+Ghaaspaat Farms Pvt. Ltd. is a Bihar-based agritech startup dedicated to
+promoting health through fresh, nutrient-rich microgreens. Their AI-monitored,
+soil-less farming techniques ensure pesticide-free, vitamin-packed microgreens
+delivered to households, offices, and schools.
+
+Primary Message:
+Add a handful of microgreens to your plate & complete your daily nutrition
+
+Keywords: microgreens, agritech startup, nutrient-rich microgreens
+
+======================================================================
+CONTACT INFORMATION
+======================================================================
+
+Email: info@ghaaspaat.com
+Phone: +91-6299 818 407 / 6299818407
+CTA: Order Fresh Today | CONTACT US ON : 6299818407
+Subscription: Get fresh microgreens delivered weekly
+
+======================================================================
+SOCIAL MEDIA
+======================================================================
+
+Facebook: https://www.facebook.com/share/1CE595bLi5/
+Instagram: https://www.instagram.com/ghaas_paat
+Twitter/X: https://x.com/Ghaaspaat
+LinkedIn: https://www.linkedin.com/in/gulshanghaaspaat
+
+======================================================================
+NAVIGATION / SITE STRUCTURE
+======================================================================
+
+Main Menu Pages:
+  - Home (https://ghaaspaat.com/)
+  - Shop (https://ghaaspaat.com/shop-microgreens-healthy-lifestyle)
+  - About (https://ghaaspaat.com/about-microgreens)
+  - Services (https://ghaaspaat.com/services-microgreens)
+  - Blog (https://ghaaspaat.com/blog-list-fresh-microgreens-delivery)
+
+Primary CTA Button: SUBSCRIBE NOW
+Footer: Subscribe form (Name + Submit), Contact section, © 2025
+
+======================================================================
+DESIGN & BRANDING NOTES
+======================================================================
+
+Platform: Hostinger Website Builder (Astro-based)
+Primary button color: rgb(75, 124, 75) — green
+Button hover: rgb(29, 30, 32) — dark
+Button border-radius: 25px
+Logo: Ghaas Paat logo (see images folder)
+Image CDN: assets.zyrosite.com
+E-commerce CDN: cdn.zyrosite.com/cdn-ecommerce
+
+======================================================================
+PRODUCTS & OFFERINGS (from Shop page)
+======================================================================
+
+Product categories:
+  - Ready-to-eat microgreen boxes
+  - DIY microgreen grow kits
+  - Bulk supply for restaurants and wellness centers
+  - Subscription boxes (weekly fresh delivery)
+
+Customer testimonial:
+  "Ghaas Paat's microgreens transformed our meals into nutritious delights!"
+  — Robin Choudhary (5-star review)
+
+======================================================================
+ABOUT PAGE — KEY CONTENT
+======================================================================
+
+Mission headline: Our Mission
+About section: About GhaasPaat / GHAASPAAT FARM
+
+Company description:
+GhaasPaat Farms Pvt. Ltd. is a Bihar-based agritech startup redefining daily
+nutrition through fresh, pesticide-free, nutrient-rich microgreens. By combining
+modern soil-less farming, AI-assisted cultivation, and sustainable agricultural
+practices, we deliver functional nutrition that supports healthier lifestyles,
+stronger immunity, and better everyday wellness.
+
+Vision: We are building a future where nutrition is accessible, farming is
+smarter, and health becomes a daily habit.
+
+Core values: Bihar Born | Innovation Driven | Sustainability Focused | Community Impact Led
+
+Mission statement:
+Our mission at Ghaaspaat Farms is to make nutrition accessible to all by
+promoting healthy living through fresh, nutrient-rich microgreens. We combine
+sustainable, soil-less farming with modern technology to deliver fresh,
+pesticide-free microgreens straight to homes and communities. We are dedicated
+to empowering rural youth, women entrepreneurs, and farmers through training
+and microgreen cultivation programs. By partnering with government initiatives,
+we aim to improve public health, support sustainable agriculture, and build a
+self-reliant India—one microgreen at a time.
+
+Focus areas:
+  - Nutrition — Innovative microgreen solutions
+  - Education — Healthy eating initiatives, training programs
+  - Sustainability — Eco-friendly practices
+  - Community — Local employment creation
+
+Gallery section: Explore our vibrant microgreens (see images folder)
+
+======================================================================
+SERVICES PAGE — KEY CONTENT
+======================================================================
+
+Section: GHAASPAAT SERVICES — Innovative solutions for healthy living
+
+Services offered:
+  1. Microgreen Kits — DIY kits for growing nutritious microgreens at home
+  2. Bulk Supply — Custom microgreens for restaurants and wellness centers
+
+FAQs:
+  Q: What are microgreens?
+  A: Microgreens are young, edible plants packed with nutrients.
+
+  Q: How to grow them?
+  A: Use our DIY kits for easy home growing of microgreens.
+
+  Q: Are they healthy to eat?
+  A: Yes, microgreens are nutrient-dense and support healthy eating.
+
+  Q: Where can I buy them?
+  A: You can purchase them directly from our online store.
+
+  Q: Do you offer training?
+  A: Yes, we provide training in microgreen farming.
+
+  Q: What is your delivery policy?
+  A: We ensure prompt delivery for all orders across the region.
+
+======================================================================
+FOOTER (all pages)
+======================================================================
+
+Subscribe form:
+  - Heading: Subscribe Now
+  - Fields: Name, Submit button
+  - Tagline: Get fresh microgreens delivered weekly
+
+Contact section:
+  - Heading: Contact / Get in touch
+  - Email: info@ghaaspaat.com
+  - Phone: +91-6299 818 407
+
+Copyright: © 2025. All rights reserved.
+
+Sticky bar (top banner on all pages):
+  "Add a handful of microgreens to your plate & complete your daily nutrition"
+  "Order Fresh Today | CONTACT US ON : 6299818407"
+
+======================================================================
+PAGES CRAWLED
+======================================================================
+
+Total pages: 5
+
+======================================================================
+PAGE: Home
+URL: https://ghaaspaat.com/
+======================================================================
+
+Title: Ghaaspaat Farms: Nutrient-Rich Microgreens from Bihar | Ghaas Paat
+Meta Description: Ghaaspaat Farms Pvt. Ltd. is a Bihar-based agritech startup dedicated to promoting health through fresh, nutrient-rich microgreens. Our AI-monitored, soil-less farming techniques ensure pesticide-free, vitamin-packed microgreens delivered to households, offices, and schools.
+
+Open Graph:
+  og:url: https://ghaaspaat.com/
+  og:title: Ghaaspaat Farms: Nutrient-Rich Microgreens from Bihar | Ghaas Paat
+  og:type: website
+  og:description: Ghaaspaat Farms Pvt. Ltd. is a Bihar-based agritech startup dedicated to promoting health through fresh, nutrient-rich microgreens. Our AI-monitored, soil-less farming techniques ensure pesticide-free, vitamin-packed microgreens delivered to households, offices, and schools.
+  og:site_name: Ghaas Paat
+  og:image: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+
+Structured Data (JSON-LD):
+[
+  {
+    "@context": "https://schema.org/",
+    "name": "Ghaaspaat Farms: Nutrient-Rich Microgreens from Bihar",
+    "url": "https://ghaaspaat.com",
+    "description": "Ghaaspaat Farms Pvt. Ltd. is a Bihar-based agritech startup dedicated to promoting health through fresh, nutrient-rich microgreens. Our AI-monitored, soil-less farming techniques ensure pesticide-free, vitamin-packed microgreens delivered to households, offices, and schools.",
+    "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg",
+    "inLanguage": "en",
+    "keywords": [
+      "microgreens",
+      "agritech startup",
+      "nutrient-rich microgreens"
+    ],
+    "@type": "WebSite"
+  }
+]
+
+H4 Headings:
+  - Subscribe Now
+
+H5 Headings:
+  - Contact
+
+Paragraphs:
+  • Add a handful of microgreens to your plate & complete your daily nutrition
+  • Order Fresh Today | CONTACT US ON : 6299818407
+  • Get fresh microgreens delivered weekly
+  • Get in touch
+  • Email
+  • info@ghaaspaat.com
+  • +91-6299 818 407
+  • Â© 2025. All rights reserved.
+
+List Items:
+  - Home
+  - Shop
+  - About
+  - Services
+  - Blog
+
+Buttons / CTAs:
+  - SUBSCRIBE NOW
+  - Submit
+
+Links:
+  - [] -> /
+  - [Home] -> /
+  - [Shop] -> /shop-microgreens-healthy-lifestyle
+  - [About] -> /about-microgreens
+  - [Services] -> /services-microgreens
+  - [Blog] -> /blog-list-fresh-microgreens-delivery
+  - [] -> https://www.facebook.com/
+  - [] -> https://www.instagram.com/
+  - [] -> https://www.linkedin.com/
+  - [] -> https://www.twitter.com/
+  - [SUBSCRIBE NOW] -> https://ghaaspaat.com/
+  - [] -> https://www.facebook.com/share/1CE595bLi5/
+  - [] -> https://www.instagram.com/ghaas_paat
+  - [] -> https://x.com/Ghaaspaat
+  - [] -> https://www.linkedin.com/in/gulshanghaaspaat
+
+======================================================================
+PAGE: About-Microgreens
+URL: https://ghaaspaat.com/about-microgreens
+======================================================================
+
+Title: Sustainable Microgreens for Health & Wellness | Ghaas Paat
+Meta Description: Discover the benefits of microgreens with Ghaas Paat. Our nutritious options not only enhance your diet but also support local employment initiatives. Embrace a healthier lifestyle with our sustainable microgreens today!
+
+Open Graph:
+  og:url: https://ghaaspaat.com/about-microgreens
+  og:title: Sustainable Microgreens for Health & Wellness | Ghaas Paat
+  og:type: website
+  og:description: Discover the benefits of microgreens with Ghaas Paat. Our nutritious options not only enhance your diet but also support local employment initiatives. Embrace a healthier lifestyle with our sustainable microgreens today!
+  og:site_name: Ghaas Paat
+  og:image: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+
+Structured Data (JSON-LD):
+[
+  {
+    "@context": "https://schema.org/",
+    "name": "Sustainable Microgreens for Health & Wellness",
+    "url": "https://ghaaspaat.com/about-microgreens",
+    "description": "Discover the benefits of microgreens with Ghaas Paat. Our nutritious options not only enhance your diet but also support local employment initiatives. Embrace a healthier lifestyle with our sustainable microgreens today!",
+    "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg",
+    "inLanguage": "en",
+    "keywords": [
+      "microgreens",
+      "nutritious options",
+      "benefits of microgreens"
+    ],
+    "@type": "WebPage"
+  }
+]
+
+H1 Headings:
+  - Our Mission
+
+H3 Headings:
+  - About GhaasPaat
+  - Gallery
+
+H4 Headings:
+  - GHAASPAAT FARM
+
+H5 Headings:
+  - Nutrition
+  - Education
+  - Sustainability
+  - Community
+  - Contact
+
+Paragraphs:
+  • Add a handful of microgreens to your plate & complete your daily nutrition
+  • Order Fresh Today | CONTACT US ON : 6299818407
+  • GhaasPaat Farms Pvt. Ltd.is a Bihar-based agritech startup redefining daily nutrition throughfresh, pesticide-free, nutrient-rich microgreens. By combiningmodern soil-less farming, AI-assisted cultivation, and sustainable agricultural practices, we deliver functional nutrition that supports healthier lifestyles, stronger immunity, and better everyday wellness.
+  • We are building a future where nutrition is accessible, farming is smarter, and health becomes a daily habit.
+  • â Bihar Bornâ Innovation Drivenâ Sustainability Focusedâ Community Impact Led
+  • Our mission at Ghaaspaat Farms is to make nutrition accessible to all by promoting healthy living through fresh, nutrient-rich microgreens. We combine sustainable, soil-less farming with modern technology to deliver fresh, pesticide-free microgreens straight to homes and communities. We are dedicated to empowering rural youth, women entrepreneurs, and farmers through training and microgreen cultivation programs. By partnering with government initiatives, we aim to improve public health, support sustainable agriculture, and build a self-reliant Indiaâone microgreen at a time.
+  • Innovative microgreen solutions.
+  • Healthy eating initiatives.
+  • Training programs offered.
+  • Eco-friendly practices.
+  • Local employment creation.
+  • Explore our vibrant microgreens.
+  • Get in touch
+  • Email
+  • info@ghaaspaat.com
+  • +91-6299 818 407
+  • Â© 2025. All rights reserved.
+
+List Items:
+  - Home
+  - Shop
+  - About
+  - Services
+  - Blog
+
+Buttons / CTAs:
+  - SUBSCRIBE NOW
+  - Know More
+
+Links:
+  - [] -> /
+  - [Home] -> /
+  - [Shop] -> /shop-microgreens-healthy-lifestyle
+  - [About] -> /about-microgreens
+  - [Services] -> /services-microgreens
+  - [Blog] -> /blog-list-fresh-microgreens-delivery
+  - [] -> https://www.facebook.com/
+  - [] -> https://www.instagram.com/
+  - [] -> https://www.linkedin.com/
+  - [] -> https://www.twitter.com/
+  - [SUBSCRIBE NOW] -> https://ghaaspaat.com/
+  - [Know More] -> tel:06299818407
+  - [] -> https://www.facebook.com/share/1CE595bLi5/
+  - [] -> https://www.instagram.com/ghaas_paat
+  - [] -> https://x.com/Ghaaspaat
+  - [] -> https://www.linkedin.com/in/gulshanghaaspaat
+
+======================================================================
+PAGE: Blog-List-Fresh-Microgreens-Delivery
+URL: https://ghaaspaat.com/blog-list-fresh-microgreens-delivery
+======================================================================
+
+Title: Fresh Microgreens Delivery from Bihar's Leading Farm  | Ghaas Paat
+Meta Description: Order pesticide-free microgreens, healthy grow kits, and subscription boxes from Bihar's leading farm. Discover the benefits of nutritious superfoods and sustainable urban farming while enjoying rapid delivery right to your door.    "fresh microgreens delivery"
+
+Open Graph:
+  og:url: https://ghaaspaat.com/blog-list-fresh-microgreens-delivery
+  og:title: Fresh Microgreens Delivery from Bihar's Leading Farm  | Ghaas Paat
+  og:type: website
+  og:description: Order pesticide-free microgreens, healthy grow kits, and subscription boxes from Bihar's leading farm. Discover the benefits of nutritious superfoods and sustainable urban farming while enjoying rapid delivery right to your door.    "fresh microgreens delivery"
+  og:site_name: Ghaas Paat
+  og:image: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+
+Structured Data (JSON-LD):
+[
+  {
+    "@context": "https://schema.org/",
+    "name": "Fresh Microgreens Delivery from Bihar's Leading Farm ",
+    "url": "https://ghaaspaat.com/blog-list-fresh-microgreens-delivery",
+    "description": "Order pesticide-free microgreens, healthy grow kits, and subscription boxes from Bihar's leading farm. Discover the benefits of nutritious superfoods and sustainable urban farming while enjoying rapid delivery right to your door.    \"fresh microgreens delivery\"",
+    "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg",
+    "inLanguage": "en",
+    "keywords": [
+      "fresh microgreens delivery",
+      "nutritious superfoods",
+      "pesticide-free microgreens"
+    ],
+    "@type": "WebPage"
+  }
+]
+
+H1 Headings:
+  - Blog
+
+H5 Headings:
+  - Contact
+
+Paragraphs:
+  • Add a handful of microgreens to your plate & complete your daily nutrition
+  • Order Fresh Today | CONTACT US ON : 6299818407
+  • Get in touch
+  • Email
+  • info@ghaaspaat.com
+  • +91-6299 818 407
+  • Â© 2025. All rights reserved.
+
+List Items:
+  - Home
+  - Shop
+  - About
+  - Services
+  - Blog
+
+Buttons / CTAs:
+  - SUBSCRIBE NOW
+
+Links:
+  - [] -> /
+  - [Home] -> /
+  - [Shop] -> /shop-microgreens-healthy-lifestyle
+  - [About] -> /about-microgreens
+  - [Services] -> /services-microgreens
+  - [Blog] -> /blog-list-fresh-microgreens-delivery
+  - [] -> https://www.facebook.com/
+  - [] -> https://www.instagram.com/
+  - [] -> https://www.linkedin.com/
+  - [] -> https://www.twitter.com/
+  - [SUBSCRIBE NOW] -> https://ghaaspaat.com/
+  - [] -> https://www.facebook.com/share/1CE595bLi5/
+  - [] -> https://www.instagram.com/ghaas_paat
+  - [] -> https://x.com/Ghaaspaat
+  - [] -> https://www.linkedin.com/in/gulshanghaaspaat
+
+======================================================================
+PAGE: Services-Microgreens
+URL: https://ghaaspaat.com/services-microgreens
+======================================================================
+
+Title: Sustainable Microgreens for Healthy Eating | Ghaas Paat
+Meta Description: Ghaas Paat specializes in sustainable microgreen products and services that promote healthy eating, support local employment, and reduce carbon footprints through innovative agricultural practices.  "microgreens"
+
+Open Graph:
+  og:url: https://ghaaspaat.com/services-microgreens
+  og:title: Sustainable Microgreens for Healthy Eating | Ghaas Paat
+  og:type: website
+  og:description: Ghaas Paat specializes in sustainable microgreen products and services that promote healthy eating, support local employment, and reduce carbon footprints through innovative agricultural practices.  "microgreens"
+  og:site_name: Ghaas Paat
+  og:image: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+
+Structured Data (JSON-LD):
+[
+  {
+    "@context": "https://schema.org/",
+    "name": "Sustainable Microgreens for Healthy Eating",
+    "url": "https://ghaaspaat.com/services-microgreens",
+    "description": "Ghaas Paat specializes in sustainable microgreen products and services that promote healthy eating, support local employment, and reduce carbon footprints through innovative agricultural practices.  \"microgreens\"",
+    "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg",
+    "inLanguage": "en",
+    "keywords": [
+      "microgreens",
+      "sustainable agriculture",
+      "healthy eating"
+    ],
+    "@type": "WebPage"
+  }
+]
+
+H3 Headings:
+  - Contact Us
+  - FAQs
+
+H5 Headings:
+  - Contact
+
+H6 Headings:
+  - Microgreen Kits
+  - Bulk Supply
+  - What are microgreens?
+  - How to grow them?
+  - Are they healthy to eat?
+  - Where can I buy them?
+  - Do you offer training?
+  - What is your delivery policy?
+
+Paragraphs:
+  • Add a handful of microgreens to your plate & complete your daily nutrition
+  • Order Fresh Today | CONTACT US ON : 6299818407
+  • GHAASPAAT SERVICES
+  • Innovative solutions for healthy living.
+  • DIY kits for growing nutritious microgreens at home.
+  • Custom microgreens for restaurants and wellness centers.
+  • Get in touch for inquiries.
+  • Microgreens are young, edible plants packed with nutrients.
+  • Use our DIY kits for easy home growing of microgreens.
+  • Yes, microgreens are nutrient-dense and support healthy eating.
+  • You can purchase them directly from our online store.
+  • Yes, we provide training in microgreen farming.
+  • We ensure prompt delivery for all orders across the region.
+  • Get in touch
+  • Email
+  • info@ghaaspaat.com
+  • +91-6299 818 407
+  • Â© 2025. All rights reserved.
+
+List Items:
+  - Home
+  - Shop
+  - About
+  - Services
+  - Blog
+
+Buttons / CTAs:
+  - SUBSCRIBE NOW
+  - Submit
+
+Links:
+  - [] -> /
+  - [Home] -> /
+  - [Shop] -> /shop-microgreens-healthy-lifestyle
+  - [About] -> /about-microgreens
+  - [Services] -> /services-microgreens
+  - [Blog] -> /blog-list-fresh-microgreens-delivery
+  - [] -> https://www.facebook.com/
+  - [] -> https://www.instagram.com/
+  - [] -> https://www.linkedin.com/
+  - [] -> https://www.twitter.com/
+  - [SUBSCRIBE NOW] -> https://ghaaspaat.com/
+  - [] -> https://www.facebook.com/share/1CE595bLi5/
+  - [] -> https://www.instagram.com/ghaas_paat
+  - [] -> https://x.com/Ghaaspaat
+  - [] -> https://www.linkedin.com/in/gulshanghaaspaat
+
+======================================================================
+PAGE: Shop-Microgreens-Healthy-Lifestyle
+URL: https://ghaaspaat.com/shop-microgreens-healthy-lifestyle
+======================================================================
+
+Title: Innovative Microgreen Offerings for a Healthy Lifestyle | Ghaas Paat
+Meta Description: Explore Ghaas Paat's innovative microgreen offerings, including ready-to-eat boxes, DIY kits, and bulk supplies. Embrace a healthier lifestyle with our fresh and nutritious microgreens that enhance your meals and well-being.  "healthy lifestyle"
+
+Open Graph:
+  og:url: https://ghaaspaat.com/shop-microgreens-healthy-lifestyle
+  og:title: Innovative Microgreen Offerings for a Healthy Lifestyle | Ghaas Paat
+  og:type: website
+  og:description: Explore Ghaas Paat's innovative microgreen offerings, including ready-to-eat boxes, DIY kits, and bulk supplies. Embrace a healthier lifestyle with our fresh and nutritious microgreens that enhance your meals and well-being.  "healthy lifestyle"
+  og:site_name: Ghaas Paat
+  og:image: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+
+Structured Data (JSON-LD):
+[
+  {
+    "@context": "https://schema.org/",
+    "name": "Innovative Microgreen Offerings for a Healthy Lifestyle",
+    "url": "https://ghaaspaat.com/shop-microgreens-healthy-lifestyle",
+    "description": "Explore Ghaas Paat's innovative microgreen offerings, including ready-to-eat boxes, DIY kits, and bulk supplies. Embrace a healthier lifestyle with our fresh and nutritious microgreens that enhance your meals and well-being.  \"healthy lifestyle\"",
+    "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg",
+    "inLanguage": "en",
+    "keywords": [
+      "healthy lifestyle",
+      "ready-to-eat microgreens",
+      "microgreen kits"
+    ],
+    "@type": "WebPage"
+  }
+]
+
+H5 Headings:
+  - Contact
+
+Paragraphs:
+  • Add a handful of microgreens to your plate & complete your daily nutrition
+  • Order Fresh Today | CONTACT US ON : 6299818407
+  • Ghaas Paat's microgreens transformed our meals into nutritious delights!
+  • Robin Choudhary
+  • â â â â â
+  • Get in touch
+  • Email
+  • info@ghaaspaat.com
+  • +91-6299 818 407
+  • Â© 2025. All rights reserved.
+
+List Items:
+  - Home
+  - Shop
+  - About
+  - Services
+  - Blog
+
+Buttons / CTAs:
+  - SUBSCRIBE NOW
+
+Links:
+  - [] -> /
+  - [Home] -> /
+  - [Shop] -> /shop-microgreens-healthy-lifestyle
+  - [About] -> /about-microgreens
+  - [Services] -> /services-microgreens
+  - [Blog] -> /blog-list-fresh-microgreens-delivery
+  - [] -> https://www.facebook.com/
+  - [] -> https://www.instagram.com/
+  - [] -> https://www.linkedin.com/
+  - [] -> https://www.twitter.com/
+  - [SUBSCRIBE NOW] -> https://ghaaspaat.com/
+  - [] -> https://www.facebook.com/share/1CE595bLi5/
+  - [] -> https://www.instagram.com/ghaas_paat
+  - [] -> https://x.com/Ghaaspaat
+  - [] -> https://www.linkedin.com/in/gulshanghaaspaat
+
+======================================================================
+DOWNLOADED IMAGES
+======================================================================
+
+Total images: 101
+Images folder: images/
+
+  images/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0_f0252f3d.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=32,h=32,fit=crop,f=png/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+  images/output-onlinepngtools-AE07G8D3jLhL0jem_f9c1fa46.png
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/Y4LPk23M2GUK87D4/output-onlinepngtools-AE07G8D3jLhL0jem.png
+  images/870bdfe9-3bda-464b-a9f4-131d6f2bf36c_d7bcaebd.jpg
+    Source: https://cdn.zyrosite.com/cdn-ecommerce/store_01K79HM0M8XM7N2XM3NHJA2Z57/assets/870bdfe9-3bda-464b-a9f4-131d6f2bf36c.jpg
+  images/c48fca11-deb8-4921-926a-b5ea53b9d21c_42a15170.jpg
+    Source: https://cdn.zyrosite.com/cdn-ecommerce/store_01K79HM0M8XM7N2XM3NHJA2Z57/assets/c48fca11-deb8-4921-926a-b5ea53b9d21c.jpg
+  images/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0_786d1b8c.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+  images/16604d0f-3c1b-4183-a8c9-b34eb3bb02af_2e486726.jpg
+    Source: https://cdn.zyrosite.com/cdn-ecommerce/store_01K79HM0M8XM7N2XM3NHJA2Z57/assets/16604d0f-3c1b-4183-a8c9-b34eb3bb02af.jpg
+  images/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0_60138cd8.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=180,h=180,fit=crop,f=png/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+  images/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0_315ddd9c.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=16,h=16,fit=crop,f=png/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+  images/ee1bc19f-eb9e-4bae-8bd8-254fdcb80970_c6dc0234.jpg
+    Source: https://cdn.zyrosite.com/cdn-ecommerce/store_01K79HM0M8XM7N2XM3NHJA2Z57/assets/ee1bc19f-eb9e-4bae-8bd8-254fdcb80970.jpg
+  images/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0_6b37e49a.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-19.58.21_400ae86c-dOqZeM3k0bHZD2n0.jpg
+  images/8b7d883e-bdcf-4d5b-b2b6-9e9ee961825c_cb21a235.webp
+    Source: https://cdn.zyrosite.com/cdn-ecommerce/store_01K79HM0M8XM7N2XM3NHJA2Z57/assets/8b7d883e-bdcf-4d5b-b2b6-9e9ee961825c.webp
+  images/traffic.txt_6a09b7bb.jpg
+    Source: https://assets.zyrosite.com/Y4LPk23M2GUK87D4/traffic.txt
+  images/b66c446f-fa4e-424b-b76d-26fb4bfe78a4_6a7741f3.webp
+    Source: https://cdn.zyrosite.com/cdn-ecommerce/store_01K79HM0M8XM7N2XM3NHJA2Z57/assets/b66c446f-fa4e-424b-b76d-26fb4bfe78a4.webp
+  images/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD_7d4f819a.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=818,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_e67c6d1c.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray_424e2edd.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=563,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw_77c5ad33.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=438,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray_7fc24700.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=562,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray.jpg
+  images/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5_fcbcede1.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1054,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray_cbd0b077.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=269,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray.jpg
+  images/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q_55a5e641.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=647,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD_007dbf30.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1090,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD_ce83e87e.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1531,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_560b2129.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=562,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5_d0c8477a.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=563,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0_df5c689e.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1531,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray_8a6d9dd3.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1054,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_1f301552.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=563,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0_71345fe8.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=399,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray_d8828ac7.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_b67d1cdc.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=732,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_88b275c7.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0_670c73d6.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=363,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0.jpg
+  images/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q_fb9cf7b0.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=485,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q.jpg
+  images/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q_2f5ea45b.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=237,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_f5793cbe.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=550,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD_22d9e219.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1107,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_ce1b9e61.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=735,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw_e0f1badb.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1531,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw.jpg
+  images/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5_fbe0fd92.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=734,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw_97ba0cde.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1196,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD_bf6fbfb9.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=399,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD.jpg
+  images/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q_2b53c852.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1531,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_3c4fe159.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=562,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0_f2a7aa76.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=991,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0_e9451015.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1090,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0.jpg
+  images/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5_1bed8305.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_f79f0877.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0_b8772fd4.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=990,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_d3b2ad7f.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q_70b71771.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=818,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw_efe59176.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=897,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray_ff32f649.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_694e147e.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=269,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_dcc34101.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=552,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray_14f2c83d.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=550,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD_d2ccc059.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=830,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD.jpg
+  images/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q_d3567a55.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1090,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_3ef0d80e.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1054,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD_3133bece.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1106,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray_aa682cbc.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray_185aedd5.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=733,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_de2ee8e3-AMqDZ2exX5UqJray.jpg
+  images/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q_23cef89a.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=399,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-17.40.10_d284bdae-AGBzlqDwzEhRPk6q.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_387f3c4b.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw_0c192ca6.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=818,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw.jpg
+  images/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5_13a66a14.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_17590f05.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=268,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5_5cfefcd8.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=562,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5.jpg
+  images/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5_b342dc1c.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=551,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD_5b566c66.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=829,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD_d649cb18.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=405,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_5a3082f1-Y4LPklw7bQUK0KZD.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw_7d89c10b.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1090,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw_26eb1932.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=399,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.40_376a4be6-mP431ZxplyuwqZBw.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_d4659450.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5_5c916391.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0_b4d59366.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=743,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0.jpg
+  images/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5_8d5e52d7.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=269,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.03.42_98c85f25-Aq2GwZKD66UnNLV5.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_976b0a0a.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1054,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0_fa34859e.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=818,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.25.38_8e6127c4-mxB2wzeVQ7tqO5y0.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw_f11434e1.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=549,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_60c33319-AQEeB3lRKqHqgkMw.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_e1e65915.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=551,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_f11506fc.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=563,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2_05a9edb6.jpg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=269,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.35.47_a7076fb1-YX4jE23W7eHroJb2.jpg
+  images/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE_ca39364f.png
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=368,fit=crop/Y4LPk23M2GUK87D4/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE.png
+  images/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE_851c9193.png
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1414,fit=crop/Y4LPk23M2GUK87D4/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE.png
+  images/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE_669d39fb.png
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=369,fit=crop/Y4LPk23M2GUK87D4/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE.png
+  images/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE_86e25e08.png
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1006,fit=crop/Y4LPk23M2GUK87D4/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE.png
+  images/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE_6519d4da.png
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/Y4LPk23M2GUK87D4/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE.png
+  images/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE_9e2d4faf.png
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=755,fit=crop/Y4LPk23M2GUK87D4/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE.png
+  images/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE_55e5f75f.png
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/Y4LPk23M2GUK87D4/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE.png
+  images/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE_2cab80bf.png
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=768,fit=crop/Y4LPk23M2GUK87D4/screenshot-2025-07-30-165747-AzGMPONbKKFXbLrE.png
+  images/whatsapp-image-2025-10-11-at-20.42.24_79939e13-AE07GQbjNgFPGpg8_de738765.jpg
+    Source: https://assets.zyrosite.com/Y4LPk23M2GUK87D4/whatsapp-image-2025-10-11-at-20.42.24_79939e13-AE07GQbjNgFPGpg8.jpg
+  images/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK_84c39c89.jpeg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=909,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK.jpeg
+  images/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK_1d50683d.jpeg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=444,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK.jpeg
+  images/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK_12459ecb.jpeg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK.jpeg
+  images/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK_77b2a3c3.jpeg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1212,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK.jpeg
+  images/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK_62489bfd.jpeg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=562,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK.jpeg
+  images/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK_2215ce05.jpeg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK.jpeg
+  images/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK_c6402eaa.jpeg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK.jpeg
+  images/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK_b7d97755.jpeg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1054,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK.jpeg
+  images/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK_26d09a71.jpeg
+    Source: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=563,fit=crop/Y4LPk23M2GUK87D4/whatsapp-image-2025-08-28-at-11.50.20-YBgj9xMxgRiBN4ZK.jpeg
+
+======================================================================
+EXTERNAL LINKS FOUND
+======================================================================
+
+  [] -> https://www.facebook.com/
+  [] -> https://www.facebook.com/share/1CE595bLi5/
+  [] -> https://www.instagram.com/
+  [] -> https://www.instagram.com/ghaas_paat
+  [] -> https://www.linkedin.com/
+  [] -> https://www.linkedin.com/in/gulshanghaaspaat
+  [] -> https://www.twitter.com/
+  [] -> https://x.com/Ghaaspaat
